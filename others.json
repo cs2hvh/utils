@@ -62,7 +62,16 @@
        "port":27015,
        "domain":"",
        "country":"Russia"
+    },
+     {
+       "ip":"93.114.82.240",
+       "code":"ROU",
+       "port":27015,
+       "domain":"",
+       "country":"Romania"
     }
+    
+  
 
     
   
