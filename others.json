@@ -26,6 +26,13 @@
        "port":27042,
        "domain":"",
        "country":"Germany"
+    },
+      {
+       "ip":"202.189.15.105",
+       "code":"CN",
+       "port":27018,
+       "domain":"",
+       "country":"China"
     }
  
 
