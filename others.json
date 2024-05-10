@@ -33,7 +33,15 @@
        "port":27018,
        "domain":"",
        "country":"China"
+    },
+     {
+       "ip":"131.196.198.176",
+       "code":"BR",
+       "port":27015,
+       "domain":"",
+       "country":"Brazil"
     }
+
  
 
 ]
