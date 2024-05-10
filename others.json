@@ -62,8 +62,15 @@
        "port":27016,
        "domain":"",
        "country":"China"
+    }, 
+    {
+       "ip":"45.136.204.176",
+       "code":"RU",
+       "port":27015,
+       "domain":"",
+       "country":"Russia"
     }
-  
+
     
   
 
