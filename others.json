@@ -13,13 +13,7 @@
        "domain":"",
        "country":"USA"
     }, 
-    {
-       "ip":"185.133.40.45",
-       "code":"RU",
-       "port":27015,
-       "domain":"",
-       "country":"Russia"
-    },
+    
      {
        "ip":"181.214.231.239",
        "code":"DE",
