@@ -85,8 +85,16 @@
        "port":27015,
        "domain":"",
        "country":"Russia"
+    }, 
+    
+     {
+       "ip":"181.214.231.239",
+       "code":"DE",
+       "port":27018,
+       "domain":"",
+       "country":"Germany"
     }
- 
+
     
     
     
