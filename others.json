@@ -80,7 +80,7 @@
     },
       
      {
-       "ip":"  109.237.109.82",
+       "ip":"109.237.109.82",
        "code":"RU",
        "port":27015,
        "domain":"",
@@ -93,6 +93,14 @@
        "port":27018,
        "domain":"",
        "country":"Germany"
+    },
+      
+     {
+       "ip":"45.136.205.174",
+       "code":"RU",
+       "port":27521,
+       "domain":"",
+       "country":"Russia"
     }
 
     
