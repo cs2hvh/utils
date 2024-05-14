@@ -103,9 +103,18 @@
        "port":27015,
        "domain":"",
        "country":"Russia"
+    },
+        {
+       "ip":"193.33.177.186",
+       "code":"PL",
+       "port":27015,
+       "domain":"",
+       "country":"Poland"
     }
 
-    
+
+
+
     
     
   
