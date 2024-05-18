@@ -110,6 +110,14 @@
        "port":27015,
        "domain":"",
        "country":"Poland"
+    },
+      
+     {
+       "ip":"46.174.51.246",
+       "code":"RU",
+       "port":27015,
+       "domain":"",
+       "country":"Russia"
     }
 
 
