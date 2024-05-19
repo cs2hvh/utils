@@ -6,14 +6,6 @@
        "port":27015,
        "domain":"",
        "country":"USA"
-    }, 
-    
-     {
-       "ip":"181.214.231.239",
-       "code":"DE",
-       "port":27042,
-       "domain":"",
-       "country":"Germany"
     },
       {
        "ip":"202.189.15.105",
@@ -81,13 +73,7 @@
        "country":"Russia"
     }, 
     
-     {
-       "ip":"181.214.231.239",
-       "code":"DE",
-       "port":27018,
-       "domain":"",
-       "country":"Germany"
-    },
+   
       
      {
        "ip":"45.136.205.174",
