@@ -111,8 +111,14 @@
        "port":27015,
        "domain":"",
        "country":"USA"
+    },
+       {
+       "ip":"46.174.49.150",
+       "code":"RU",
+       "port":27015,
+       "domain":"",
+       "country":"Russia"
     }
-
 
 
 
