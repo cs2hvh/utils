@@ -1,4 +1,37 @@
 [
-
-
- ]
+     {
+          "ip": "149.18.63.112",
+          "code": "DE",
+          "port": 27015,
+          "domain": "",
+          "country": "Germany"
+     },
+     {
+          "ip": "149.18.63.224",
+          "code": "DE",
+          "port": 30003,
+          "domain": "",
+          "country": "Germany"
+     },
+     {
+          "ip": "149.18.61.252",
+          "code": "US",
+          "port": 30015,
+          "domain": "",
+          "country": "United States"
+     },
+     {
+          "ip": "146.59.81.217",
+          "code": "PL",
+          "port": 30001,
+          "domain": "",
+          "country": "Poland"
+     },
+     {
+          "ip": "157.254.166.0",
+          "code": "SG",
+          "port": 30007,
+          "domain": "",
+          "country": "Singapore"
+     }
+]
