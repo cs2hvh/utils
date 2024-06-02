@@ -4,34 +4,39 @@
           "code": "DE",
           "port": 27015,
           "domain": "",
-          "country": "Germany"
+          "country": "Germany",
+          "pinned": false
      },
      {
           "ip": "149.18.63.224",
           "code": "DE",
           "port": 30003,
           "domain": "",
-          "country": "Germany"
+          "country": "Germany",
+          "pinned": false
      },
      {
           "ip": "149.18.61.252",
           "code": "US",
           "port": 30015,
           "domain": "",
-          "country": "United States"
+          "country": "United States",
+          "pinned": false
      },
      {
           "ip": "146.59.81.217",
           "code": "PL",
           "port": 30001,
           "domain": "",
-          "country": "Poland"
+          "country": "Poland",
+          "pinned": false
      },
      {
           "ip": "157.254.166.0",
           "code": "SG",
           "port": 30007,
           "domain": "",
-          "country": "Singapore"
+          "country": "Singapore",
+          "pinned": true
      }
 ]
