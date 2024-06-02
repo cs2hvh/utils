@@ -37,6 +37,6 @@
           "port": 30007,
           "domain": "",
           "country": "Singapore",
-          "pinned": true
+          "pinned": false
      }
 ]
